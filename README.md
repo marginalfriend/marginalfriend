@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Learner
 -------
 
-I've been learning how to code for the last 9 months. I'm interested in Data Science in general. If you know how to Data Science and willing to teach hit me up!
+I've been learning how to code for the last 1 and a half year. I'm interested in Web3 development.
 
-* 🌍  I'm based in Bandung, Recently Bogor
+* 🌍  I'm based in Bandung, Indonesia
 * ✉️  You can contact me at [abdullahpsg@gmail.com](mailto:abdullahpsg@gmail.com)
 * 🚀  I'm currently working on [IDN Boarding School as an English Teacher](http://www.idn.sch.id)
 * 🧠  I'm learning Data Science Basics
